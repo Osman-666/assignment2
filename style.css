@@ -7,3 +7,15 @@
 .profile-img img{
     width: 80%;
 }
+.card img{
+    max-width: 70%;
+}
+.button-color{
+    background-color: #8CA724;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+}
+.button-color:hover{
+    color: #ffffff;
+}
