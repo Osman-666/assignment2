@@ -1,4 +1,4 @@
-body h1{
+body h1,h3{
     font-family: 'Bebas Neue', cursive;
 }
 .upper-main{
@@ -20,6 +20,7 @@ body h1{
 .button-color:hover{
     color: #ffffff;
 }
+        /* this is id */
 #orange{
     color: #FABE4C;
     font-size: 50px;
@@ -78,9 +79,10 @@ body h1{
     height: 65px;
 }
 .cart-right img{
-    max-width:85%;
+    max-width: 85%;
+    height: 300px;
+    margin-top: 35px;
 }
-
 .view-btn{
     margin-left: 10px;
 }
