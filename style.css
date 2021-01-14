@@ -1,3 +1,6 @@
+body h1{
+    font-family: 'Bebas Neue', cursive;
+}
 .upper-main{
     background-color: #FFFBF0;
 }
@@ -47,4 +50,29 @@
 }
 .image-resize{
     height: 300px;
+}
+
+.cart-section{
+    margin-top: 100px;
+    height: 400px;
+}
+.logo-title h2{
+    color: #3A3D5B;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 5px;
+    text-align: justify;
+}
+.logo-title h4{
+    font-size: 15px;
+    color: #8C8C8C;
+    margin-right: 10px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+.logo img{
+    margin-left: 10px;
+}
+.cart-right img{
+    max-width:85%;
 }
