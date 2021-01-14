@@ -7,9 +7,7 @@
 .profile-img img{
     width: 80%;
 }
-.card img{
-    max-width: 70%;
-}
+
 .button-color{
     background-color: #8CA724;
     color: #ffffff;
@@ -18,4 +16,35 @@
 }
 .button-color:hover{
     color: #ffffff;
+}
+#orange{
+    color: #FABE4C;
+    font-size: 50px;
+    font-weight: 700;
+}
+.blue{
+    color: #363958;
+    font-size: 50px;
+    font-weight: 700;
+}
+.money{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FABE4C;
+    margin-left: 10px;
+}
+.card{
+    border: 0em;
+    border-radius: 5px;
+}
+
+.card-image{
+    max-width: 90%;
+    background-color:#F1F1F1;
+    margin:0 auto;
+    margin-top: 5%;
+    border-radius: 5%;
+}
+.image-resize{
+    height: 300px;
 }
