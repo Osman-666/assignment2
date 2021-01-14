@@ -58,10 +58,12 @@ body h1{
 }
 .logo-title h2{
     color: #3A3D5B;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 700;
-    margin-top: 5px;
+    margin-top: 15px;
     text-align: justify;
+    word-spacing: -4px;
+    margin-bottom: 15px;
 }
 .logo-title h4{
     font-size: 15px;
@@ -71,8 +73,19 @@ body h1{
     text-align: justify;
 }
 .logo img{
-    margin-left: 10px;
+    width: 50%;
+    margin-left: 20px;
+    height: 65px;
 }
 .cart-right img{
     max-width:85%;
+}
+
+.view-btn{
+    margin-left: 10px;
+}
+.black-btn{
+    width: 60px;
+    background-color: black;
+    color: white;
 }
